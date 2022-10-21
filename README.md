@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoda</h1>
 <h3 align="center">A Computer Science Major Student</h3>
 
-- 👨‍💻 My projects are available at [https://github.com/hoda-mawlawi?tab=repositories](https://github.com/hoda-mawlawi?tab=repositories)
+- 👨‍💻 My projects are available at [hoda-mawlawi/repositories](https://github.com/hoda-mawlawi?tab=repositories)
 
 - 📫 How to reach me **hoda.mawlawi@gmail.com**
 
